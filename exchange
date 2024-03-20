@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+cd "$(dirname "${BASH_SOURCE[0]}")"
+java -jar ./build/libs/OrderBookAssignment-1.0.jar
